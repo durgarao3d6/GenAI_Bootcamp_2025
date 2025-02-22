@@ -1,12 +1,12 @@
 # Listening Learning App
 
 ## Business Goals:
-    You are an applied AI Engineer aand you have been tasked to build a launguage listening comprehension app.There
+    You are an applied AI Engineer and you have been tasked to build a language listening comprehension app.There
     are listening comprehension examples for language learning tests on youtube.
 
     Pull the youtube content and use that to generate similar style listening comprehension.
     
-### Techincal requirements:
+### Technical requirements:
     -   Voice to Text, (ASR) Transcribe Eg:- Amazon Transcribe, Open Whisper, Youtube transcript API.
     -   LLM + Tool use agent
     -   Text To Voice (TTS).Amazon Polly.
